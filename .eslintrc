@@ -17,5 +17,6 @@
     "import/first": "error",
     "no-use-before-define": "warn",
     "no-param-reassign": "off",
+    "quotes": [1, "prefer-single"]
   }
 }
